@@ -1,6 +1,14 @@
 # lua-geoip
-Lua geo ip 
+example for lua-geoip package
 
+### Requiments
+```
+        - geoip-database 
+        - libgeoip-dev
+        - lua-geoip
+```
+
+### Example
 ```
 require 'lib.GeoIP'
 
